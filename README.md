@@ -64,6 +64,9 @@ estimator.fit({"training": "s3://sagemaker-bucket-05-11-2022/"}, wait=False)
 
 ![EC2 Instance running](screenshots/14_EC2_Instance_running.png)
 
+![EBS based Instance](screenshots/14_1_EBS_Based_Instance.png)
+This is an EBS based instance
+
 ![Set up](screenshots/15_SomeSetup_Process.png)
 
 ```batch
