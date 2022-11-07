@@ -299,4 +299,4 @@ Scale in cool down. will only take 30 seconds of elavated traffic for the endpoi
 5. [AWS Machine Learning WorkFlow](https://github.com/Aduzona/AWS-Machine-Learning-Workflow-Project)
 6. [Json.load() geeksforgeeks](https://www.geeksforgeeks.org/json-loads-in-python/#:~:text=loads()%20method%20can%20be,JSON%20data%20into%20Python%20Dictionary.)
 7. [public endpoints](https://docs.aws.amazon.com/lambda/latest/operatorguide/public-endpoints.html)
-8. 8. [SageMaker Workshop](https://sagemaker-workshop.com/)
+8. [SageMaker Workshop](https://sagemaker-workshop.com/)
